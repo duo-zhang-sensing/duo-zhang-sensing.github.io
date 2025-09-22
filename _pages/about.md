@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 I'm Duo Zhang, a Ph.D. candidate in my fifth year at Peking University's School of Computer Science. I'm grateful to be working under the guidance of my advisor, Prof. Daqing Zhang.
+
 My research interests lie in ubiquitous computing, wireless sensing, and mobile health. Specifically, I leverage mmWave radar to accurately and non-invasively understand human behavior and activities. I'm particularly interested in applying this technology to health monitoring and smart care, with the goal of building a more intelligent and proactive healthcare system.
 
 A data-driven personal website
