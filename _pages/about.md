@@ -31,10 +31,10 @@ My research interests lie in ubiquitous computing, mobile computing, and wireles
 - **Reviewer**, ACM CHI (2024)
 
 # Selected Publications
-- ### [LT-Fall: The Design and Implementation of a Life-threatening Fall Detection and Alarming System] (https://dl.acm.org/doi/10.1145/3580835)
+- ### [LT-Fall: The Design and Implementation of a Life-threatening Fall Detection and Alarming System](https://dl.acm.org/doi/10.1145/3580835)
 **Duo Zhang**, Xusheng Zhang, Shengjie Li, Yaxiong Xie, Yang Li, Xuanzhi Wang, Daqing Zhang <br>
 *ACM IMWUT Vol. 7/UbiComp 2023*
 
-- ### [LoCal: An Automatic Location Attribute Calibration Approach for Large-Scale Deployment of mmWave-based Sensing Systems] (https://dl.acm.org/doi/abs/10.1145/3631436)
+- ### [LoCal: An Automatic Location Attribute Calibration Approach for Large-Scale Deployment of mmWave-based Sensing Systems](https://dl.acm.org/doi/abs/10.1145/3631436)
 **Duo Zhang**, Xusheng Zhang, Yaxiong Xie, Fusang Zhang, Xuanzhi Wang, Yang Li, Daqing Zhang <br>
 *ACM IMWUT Vol. 7/UbiComp 2024*
