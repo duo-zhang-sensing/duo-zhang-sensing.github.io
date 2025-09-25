@@ -31,6 +31,7 @@ My research interests lie in ubiquitous computing, mobile computing, and wireles
 - **Reviewer**, ACM CHI (2024)
 
 # Selected Publications
+You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=2Bb4u9IAAAAJ).
 -  [**LT-Fall: The Design and Implementation of a Life-threatening Fall Detection and Alarming System**](https://dl.acm.org/doi/10.1145/3580835) <br>
 **Duo Zhang**, Xusheng Zhang, Shengjie Li, Yaxiong Xie, Yang Li, Xuanzhi Wang, Daqing Zhang <br>
 *ACM IMWUT Vol. 7/UbiComp 2023*
@@ -58,8 +59,7 @@ Zhaoxin Chang, Fusang Zhang, Xujun Ma, Pei Wang, Weiyan Chen, **Duo Zhang**, Bad
 - [**WiCG: In-Body Cardiac Motion Sensing Based on a Mix-Medium Wi-Fi Fresnel Zone Model**](https://ieeexplore.ieee.org/abstract/document/10978106) <br>
 Pei Wang, Anlan Yu, Xujun Ma, Rong Zheng, Jingfu Dong, Zhaoxin Chang, **Duo Zhang**, Djamal Zeghlache, Daqing Zhang <br>
 *IEEE Transactions on Mobile Computing, 2025 (Early Access)*
-
-- [**WiCaliper: Simultaneous Material and 3D Size Sensing for Everyday Objects Using WiFi**](https://ieeexplore.ieee.org/abstract/document/11162676)
+- [**WiCaliper: Simultaneous Material and 3D Size Sensing for Everyday Objects Using WiFi**](https://ieeexplore.ieee.org/abstract/document/11162676) <br>
 Zhiyun Yao, Kai Niu, Xuanzhi Wang, Rong Zheng, Junzhe Wang, **Duo Zhang**, Daqing Zhang <br>
 *IEEE Journal on Selected Areas in Communications, 2025 (Early Access)*
 
