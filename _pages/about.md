@@ -31,6 +31,6 @@ My research interests lie in ubiquitous computing, mobile computing, and wireles
 - **Reviewer**, ACM CHI (2024)
 
 # Selected Publications
-### LT-Fall: The Design and Implementation of a Life-threatening Fall Detection and Alarming System (https://dl.acm.org/doi/10.1145/3580835)
-**D Zhang**, X Zhang, S Li, Y Xie, Y Li, X Wang, D Zhan
+- ### [LT-Fall: The Design and Implementation of a Life-threatening Fall Detection and Alarming System] (https://dl.acm.org/doi/10.1145/3580835)
+**D Zhang**, X Zhang, S Li, Y Xie, Y Li, X Wang, D Zhan <br>
 *ACM IMWUT Vol. 7/UbiComp 2023*
