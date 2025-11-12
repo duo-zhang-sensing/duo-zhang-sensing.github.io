@@ -69,4 +69,7 @@ Pei Wang, Anlan Yu, Xujun Ma, Rong Zheng, Jingfu Dong, Zhaoxin Chang, **Duo Zhan
 Zhiyun Yao, Kai Niu, Xuanzhi Wang, Rong Zheng, Junzhe Wang, **Duo Zhang**, Daqing Zhang <br>
 *IEEE Journal on Selected Areas in Communications, 2025 (Early Access)*
 
-
+# Demos
+- [**Deep Learning for Indoor Human Activity Recognition Using High-Quality mmWave Point Clouds**](https://youtu.be/niwlCS0B4h4) 
+- [**Multi-person mmWave Radar Human Point Cloud Demo**](https://youtu.be/0p5NSsch18Q) 
+- [**Multi-person In-Bed Vital Signs Monitoring**](https://youtu.be/1AeLp_9i_EU) 
