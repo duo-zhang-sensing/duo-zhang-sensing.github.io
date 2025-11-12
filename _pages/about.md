@@ -23,6 +23,12 @@ My research interests lie in ubiquitous computing, mobile computing, and wireles
 - **Feb 2025** One paper accepted at IEEE TMC
 
 
+# Awards
+- **Nov 2025** Ten Outstanding Academics of the School of Computer Science, Peking University
+- **Nov 2025** MobiCom SDP Sensing Challenge 1st Place
+- **Oct 2024** National Scholarship
+
+
 # Professional Service
 - **Reviewer**, ACM UbiComp/IMWUT (2024, 2025)
 - **Artifacts Evaluation Committee**, ACM MobiCom (2025)
