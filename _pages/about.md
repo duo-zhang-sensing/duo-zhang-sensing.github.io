@@ -13,7 +13,7 @@ School of Computer Science at Peking University
 I am a fifth-year Ph.D. candidate in the School of Computer Science at Peking University, advised by Prof. Daqing Zhang. I am expected to graduate in June 2026, and I welcome inquiries regarding potential academic or industry positions. I received my B.S. degree from Northwestern Polytechnical University in 2021.
 
 # Research Interests
-My research interests lie in ubiquitous computing, mobile computing, and wireless sensing. I specialize in leveraging mmWave radar for the accurate and non-invasive sensing of human activity and physiological signals, with extensive experience in both micro (respiration, heartbeat) and macro-motion (fall detection, activity recognition) analysis. Building on this foundation, my current work explores the application of Large Language Models (LLMs) to interpret and reason with the mmWave modality. I am also keenly interested in extending these advanced sensing capabilities to enhance perception in robotics and autonomous driving.
+My research interests lie in ubiquitous computing, mobile computing, and wireless sensing. I specialize in leveraging mmWave radar for the accurate and non-invasive sensing of human activity and physiological signals, with extensive experience in both micro (respiration, heartbeat) and macro-motion (fall detection, activity recognition, pose estimation) analysis. Building on this foundation, my current work explores the application of Large Language Models (LLMs) to interpret and reason with the mmWave modality. I am also keenly interested in extending these advanced sensing capabilities to enhance perception in robotics and autonomous driving.
 
 # News
 - **Sep 2025** Two papers accepted at ACM UbiComp/IMWUT 2026
@@ -70,6 +70,6 @@ Zhiyun Yao, Kai Niu, Xuanzhi Wang, Rong Zheng, Junzhe Wang, **Duo Zhang**, Daqin
 *IEEE Journal on Selected Areas in Communications, 2025 (Early Access)*
 
 # Demos
-- [**Deep Learning for Indoor Human Activity Recognition Using High-Quality mmWave Point Clouds**](https://youtu.be/niwlCS0B4h4) 
+- [** Human Activity Recognition and Pose Estimation Based on High-Quality mmWave Point Clouds**](https://youtu.be/niwlCS0B4h4) 
 - [**Multi-person mmWave Radar Human Point Cloud Demo**](https://youtu.be/0p5NSsch18Q) 
 - [**Multi-person In-Bed Vital Signs Monitoring**](https://youtu.be/1AeLp_9i_EU) 
