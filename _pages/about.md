@@ -70,6 +70,6 @@ Zhiyun Yao, Kai Niu, Xuanzhi Wang, Rong Zheng, Junzhe Wang, **Duo Zhang**, Daqin
 *IEEE Journal on Selected Areas in Communications, 2025 (Early Access)*
 
 # Demos
-- [** Human Activity Recognition and Pose Estimation Based on High-Quality mmWave Point Clouds**](https://youtu.be/niwlCS0B4h4) 
+- [**Human Activity Recognition and Pose Estimation Based on High-Quality mmWave Point Clouds**](https://youtu.be/niwlCS0B4h4) 
 - [**Multi-person mmWave Radar Human Point Cloud Demo**](https://youtu.be/0p5NSsch18Q) 
 - [**Multi-person In-Bed Vital Signs Monitoring**](https://youtu.be/1AeLp_9i_EU) 
