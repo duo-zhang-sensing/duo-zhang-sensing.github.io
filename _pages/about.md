@@ -25,7 +25,7 @@ My research interests lie in ubiquitous computing, mobile computing, and wireles
 
 # Awards
 - **Nov 2025** Ten Outstanding Academics of the School of Computer Science, Peking University
-- **Nov 2025** MobiCom SDP Sensing Challenge 1st Place
+- **Nov 2025** SDP Sensing Challenge 1st Place @ MobiCom 2025
 - **Oct 2024** National Scholarship
 
 
