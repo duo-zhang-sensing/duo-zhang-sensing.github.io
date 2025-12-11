@@ -70,6 +70,6 @@ Zhiyun Yao, Kai Niu, Xuanzhi Wang, Rong Zheng, Junzhe Wang, **Duo Zhang**, Daqin
 *IEEE Journal on Selected Areas in Communications, 2025 (Early Access)*
 
 # Demos
-- [**Human Activity Recognition and Pose Estimation Based on High-Quality mmWave Point Clouds**](https://youtu.be/niwlCS0B4h4) 
-- [**Multi-person mmWave Radar Human Point Cloud Demo**](https://youtu.be/0p5NSsch18Q) 
-- [**Multi-person In-Bed Vital Signs Monitoring**](https://youtu.be/1AeLp_9i_EU) 
+- [**Human Activity Recognition and Pose Estimation Based on High-Quality mmWave Point Clouds (SDP Sensing Challenge 1st Place @ MobiCom 2025)**](https://youtu.be/niwlCS0B4h4) 
+- [**Multi-person mmWave Radar Human Point Cloud Demo (SDP Sensing Challenge 1st Place @ MobiCom 2025)**](https://youtu.be/0p5NSsch18Q) 
+
