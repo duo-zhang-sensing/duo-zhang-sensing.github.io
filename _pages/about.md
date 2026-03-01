@@ -17,7 +17,7 @@ My research interests lie in ubiquitous computing, mobile computing, and wireles
 
 # News
 - **Feb 2026** One paper accepted at ACM MobiSys 2026
-- **Jan 2025** One paper accepted at ACM Sensys 2026
+- **Jan 2025** One paper accepted at ACM SenSys 2026
 - **Sep 2025** Two papers accepted at ACM UbiComp/IMWUT 2026
 - **Sep 2025** One paper accepted at IEEE JSAC
 - **July 2025** One paper accepted at UbiComp/IMWUT 2025
