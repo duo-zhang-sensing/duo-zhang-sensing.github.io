@@ -10,7 +10,7 @@ School of Computer Science at Peking University
 
 # Bio
 
-I am a fifth-year Ph.D. candidate in the School of Computer Science at Peking University, advised by Prof. Daqing Zhang. I am expected to graduate in June 2026, and I welcome inquiries regarding potential academic or industry positions. I received my B.S. degree from School of Computer Science at Northwestern Polytechnical University in 2021.
+I am a fifth-year Ph.D. candidate in the School of Computer Science at Peking University, advised by [Prof. Daqing Zhang](https://scholar.google.com/citations?user=qn8CqEYAAAAJ&hl=zh-CN). I am expected to graduate in June 2026, and I welcome inquiries regarding potential academic or industry positions. I received my B.S. degree from School of Computer Science at Northwestern Polytechnical University in 2021.
 
 # Research Interests
 My research interests lie in ubiquitous computing, mobile computing, and wireless sensing. I specialize in leveraging mmWave radar for the accurate and non-invasive sensing of human activity and physiological signals, with extensive experience in both micro (respiration, heartbeat) and macro-motion (fall detection, activity recognition, pose estimation) analysis. Building on this foundation, my current work explores the application of Large Language Models (LLMs) to interpret and reason with the mmWave modality. I am also keenly interested in extending these advanced sensing capabilities to enhance perception in robotics and autonomous driving.
