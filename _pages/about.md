@@ -77,6 +77,10 @@ Pei Wang, Anlan Yu, Xujun Ma, Rong Zheng, Jingfu Dong, Zhaoxin Chang, **Duo Zhan
 - [**WiCaliper: Simultaneous Material and 3D Size Sensing for Everyday Objects Using WiFi**](https://ieeexplore.ieee.org/abstract/document/11162676) <br>
 Zhiyun Yao, Kai Niu, Xuanzhi Wang, Rong Zheng, Junzhe Wang, **Duo Zhang**, Daqing Zhang <br>
 *IEEE Journal on Selected Areas in Communications, 2025 (Early Access)*
+- [**OmniPC: A Generalizable Point Cloud Generation Pipeline for mmWave Radar**](https://dl.acm.org/doi/full/10.1145/3774906.3802797) <br>
+Hongliu Yang, Zizhou Fan, Jie Xiong, **Duo Zhang**, Xusheng Zhang, Zijun Han, Fusang Zhang, Daqing Zhang <br>
+*ACM SenSys 2026*
+
 
 # Demos
 - [**Human Activity Recognition and Pose Estimation Based on High-Quality mmWave Point Clouds (SDP Sensing Challenge 1st Place @ MobiCom 2025)**](https://youtu.be/niwlCS0B4h4) 
