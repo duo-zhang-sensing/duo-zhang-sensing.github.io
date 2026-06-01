@@ -42,7 +42,7 @@ My research interests lie in ubiquitous computing, mobile computing, and wireles
 
 # Selected Publications
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=2Bb4u9IAAAAJ).
--  **MuPose: Breaking the Scalability Barrier of mmWave Multi-User Pose Estimation in the Wild** <br>
+-  [**MuPose: Breaking the Scalability Barrier of mmWave Multi-User Pose Estimation in the Wild**](https://dl.acm.org/doi/10.1145/3745756.3809227) <br>
 **Duo Zhang**, Zhehui Yin, Xusheng Zhang, Junzhe Wang, Hongliu Yang, Zhiyun Yao, Zizhou Fan, Wenwei Li, Daqing Zhang <br>
 *ACM MobiSys 2026*
 -  [**LT-Fall: The Design and Implementation of a Life-threatening Fall Detection and Alarming System**](https://dl.acm.org/doi/10.1145/3580835) <br>
