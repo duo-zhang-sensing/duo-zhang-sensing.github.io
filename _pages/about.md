@@ -13,7 +13,7 @@ School of Computer Science at Peking University
 I am a fifth-year Ph.D. candidate in the School of Computer Science at Peking University, advised by [Prof. Daqing Zhang](https://scholar.google.com/citations?user=qn8CqEYAAAAJ&hl=zh-CN). I am expected to graduate in June 2026, and I welcome inquiries regarding potential academic or industry positions. I received my B.S. degree from School of Computer Science at Northwestern Polytechnical University in 2021.
 
 # Research Interests
-My research interests lie in ubiquitous computing, mobile computing, and wireless sensing. My doctoral research focuses on building a cognitive mmWave Agent that comprehends human activities and vital signs, enabling causal reasoning and natural user interaction. I specialize in leveraging mmWave radar for the accurate and non-invasive sensing of human activity and physiological signals, with extensive experience in both micro (respiration, heartbeat) and macro-motion (fall detection, activity recognition, pose estimation) analysis. Building on this foundation, my current work explores the application of Large Language Models (LLMs) to interpret and reason with the mmWave modality. I am also keenly interested in extending these advanced sensing capabilities to enhance perception in robotics and autonomous driving.
+My research interests lie in ubiquitous computing, mobile computing, and wireless sensing. My doctoral research focuses on building a cognitive mmWave Agent that comprehends human activities and vital signs, enabling causal reasoning and natural user interaction. I specialize in leveraging mmWave radar for the accurate and non-invasive sensing of human activity and physiological signals, with extensive experience in both micro (respiration, heartbeat) and macro-motion (fall detection, activity recognition, pose estimation) analysis. Building on this foundation, my current work explores the application of Large Language Models (LLMs) to interpret and reason with the mmWave modality. 
 
 # News
 - **April 2026** One paper accepted at ACM UbiComp/IMWUT 2026
@@ -35,8 +35,6 @@ My research interests lie in ubiquitous computing, mobile computing, and wireles
 
 # Professional Service
 - **Reviewer**, ACM UbiComp/IMWUT (2024, 2025, 2026)
-- **Reviewer**, IEEE Transactions on Radar Systems (2026)
-- **Reviewer**, IEEE Transactions on Automation Science and Engineering (2026)
 - **Artifacts Evaluation Committee**, ACM MobiCom (2025)
 - **Reviewer**, IEEE Transactions on Mobile Computing (2025)
 - **Reviewer**, ACM Transactions on Computing for Healthcare (2025)
