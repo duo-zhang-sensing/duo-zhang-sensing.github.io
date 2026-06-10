@@ -23,10 +23,11 @@ My research interests lie in ubiquitous computing, mobile computing, and wireles
 - **Sep 2025** One paper accepted at IEEE JSAC
 - **July 2025** One paper accepted at UbiComp/IMWUT 2025
 - **May 2025** One paper accepted at UbiComp/IMWUT 2025
-- **Feb 2025** One paper accepted at IEEE TMC
+
 
 
 # Awards
+- **June 2026** Outstanding Doctoral Dissertation, School of Computer Science, Peking University
 - **Apr 2026** Outstanding Graduate of Peking University
 - **Nov 2025** Ten Outstanding Academics of the School of Computer Science, Peking University
 - **Nov 2025** SDP Sensing Challenge 1st Place @ MobiCom 2025
