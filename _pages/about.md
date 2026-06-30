@@ -16,6 +16,7 @@ I am a fifth-year Ph.D. candidate in the School of Computer Science at Peking Un
 My research interests lie in ubiquitous computing, mobile computing, and wireless sensing. My doctoral research focuses on building a cognitive mmWave Agent that comprehends human activities and vital signs, enabling causal reasoning and natural user interaction. I specialize in leveraging mmWave radar for the accurate and non-invasive sensing of human activity and physiological signals, with extensive experience in both micro (respiration, heartbeat) and macro-motion (fall detection, activity recognition, pose estimation) analysis. Building on this foundation, my current work explores the application of Large Language Models (LLMs) to interpret and reason with the mmWave modality. 
 
 # News
+- **June 2026** One paper Conditionally Accepted at MobiCom 2026
 - **April 2026** One paper accepted at ACM UbiComp/IMWUT 2026
 - **Feb 2026** One paper accepted at ACM MobiSys 2026
 - **Jan 2025** One paper accepted at ACM SenSys 2026
