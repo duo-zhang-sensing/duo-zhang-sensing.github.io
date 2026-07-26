@@ -39,9 +39,11 @@ My research lies at the intersection of Ubiquitous Computing, Mobile Computing, 
 
 # Professional Service
 - **Reviewer**, ACM UbiComp/IMWUT (2024, 2025, 2026)
-- **Artifacts Evaluation Committee**, ACM MobiCom (2025)
-- **Reviewer**, IEEE Transactions on Mobile Computing (2025)
+- **Reviewer**, IEEE Transactions on Mobile Computing (2025，2026)
+- **Reviewer**, IEEE Transactions on Radar Systems (2026)
+- **Reviewer**, IEEE Transactions on Automation Science and Engineering (2026)
 - **Reviewer**, ACM Transactions on Computing for Healthcare (2025)
+- **Artifacts Evaluation Committee**, ACM MobiCom (2025)
 - **Reviewer**, ACM CHI (2024)
 
 # Selected Publications
