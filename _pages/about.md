@@ -10,7 +10,7 @@ School of Computer Science at Peking University
 
 # Bio
 
-I recently received my Ph.D. from the School of Computer Science at Peking University, advised by [Prof. Daqing Zhang](https://scholar.google.com/citations?user=qn8CqEYAAAAJ&hl=zh-CN). Starting in September 2026, I will join ETH Zurich as a Postdoctoral Researcher under the supervision of [Prof. Mango Michele](https://scholar.google.com/citations?user=ytj7UUcAAAAJ&hl=en). I received my B.S. degree from the School of Computer Science at Northwestern Polytechnical University in 2021.
+I recently received my Ph.D. from the School of Computer Science at Peking University, advised by [Prof. Daqing Zhang](https://scholar.google.com/citations?user=qn8CqEYAAAAJ&hl=zh-CN). Starting in September 2026, I will join ETH Zurich as a Postdoctoral Researcher under the supervision of [Prof. Michele Magno](https://scholar.google.com/citations?user=ytj7UUcAAAAJ&hl=en). I received my B.S. degree from the School of Computer Science at Northwestern Polytechnical University in 2021.
 
 # Research Interests
 My research lies at the intersection of Ubiquitous Computing, Mobile Computing, and Multimodal LLM. I develop mmWave sensing systems that enable AI agent to perceive and understand human behavior and physiological states. My previous work has focused on accurate, contact-free sensing of both micro-scale physiological signals, such as respiration and heartbeat, and macro-scale human movements, including activity recognition and pose estimation. Building on this foundation, my current research explores how Large Language Models can interpret continuous radar observations, reason about human activities and states, and support natural interaction between people and intelligent agents.
