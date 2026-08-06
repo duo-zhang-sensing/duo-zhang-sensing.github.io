@@ -499,7 +499,9 @@ h1 span {
   display: grid;
   gap: 14px;
   grid-template-columns: 1fr 1fr;
-}.demo-featured {
+}
+
+.demo-featured {
   grid-column: 1 / -1;
 }
 
