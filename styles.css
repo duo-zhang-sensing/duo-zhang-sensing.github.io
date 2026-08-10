@@ -463,6 +463,18 @@ h1 span {
   font-weight: 500;
 }
 
+.paper-links {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  margin-top: 5px;
+}
+
+.paper-links a {
+  font-weight: 700;
+}
+
 .two-column {
   display: grid;
   gap: 64px;
