@@ -467,12 +467,28 @@ h1 span {
   align-items: center;
   display: flex;
   flex-wrap: wrap;
-  gap: 5px;
-  margin-top: 5px;
+  gap: 7px;
+  margin-top: 6px;
 }
 
 .paper-links a {
+  background: var(--soft);
+  border: 1px solid var(--line);
+  border-radius: 2px;
+  color: var(--blue);
+  font-size: 10.5px;
   font-weight: 700;
+  line-height: 1;
+  padding: 4px 7px;
+  transition:
+    background-color 150ms ease,
+    border-color 150ms ease;
+}
+
+.paper-links a:hover {
+  background: var(--blue-light);
+  border-color: var(--blue);
+  text-decoration: none;
 }
 
 .two-column {
