@@ -309,7 +309,7 @@ h1 span {
 }
 
 .profile-main > p,
-.research-columns > p {
+.research-column > p {
   font-family: Georgia, "Times New Roman", serif;
   font-size: 15.25px;
   line-height: 1.65;
@@ -338,8 +338,20 @@ h1 span {
   gap: 28px;
 }
 
-.research-columns > p {
+.research-column > p {
   margin-bottom: 0;
+}
+
+.research-column {
+  min-width: 0;
+}
+
+.research-column > h3 {
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 650;
+  line-height: 1.4;
+  margin: 0 0 8px;
 }
 
 .research-heading {
@@ -752,7 +764,7 @@ footer p {
     gap: 14px;
   }
 
-  .research-columns > p {
+  .research-column > p {
     font-size: 14px;
   }
 
